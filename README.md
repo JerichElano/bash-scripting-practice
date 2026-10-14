@@ -17,6 +17,7 @@ A collection of interactive shell scripts built while learning Bash scripting fu
 5. **Master Runner (`five.sh`)**: Orchestrates and executes all four sub-programs sequentially.
 
 ## 🚀 How to Run
+
 ```bash
 git clone [https://github.com/JerichElano/bash-scripting-practice.git](https://github.com/JerichElano/bash-scripting-practice.git)
 cd bash-scripting-practice
