@@ -19,7 +19,7 @@ A collection of interactive shell scripts built while learning Bash scripting fu
 ## 🚀 How to Run
 
 ```bash
-git clone [https://github.com/JerichElano/bash-scripting-practice.git](https://github.com/JerichElano/bash-scripting-practice.git)
+git clone https://github.com/JerichElano/bash-scripting-practice.git
 cd bash-scripting-practice
 chmod +x *.sh
 ./five.sh
